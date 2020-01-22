@@ -1,0 +1,2 @@
+# awesome-linkedin
+Linkedin Scrapy 
