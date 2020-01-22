@@ -1,2 +1,3 @@
-# awesome-linkedin
-Linkedin Scrapy 
+# Awesome-Linkedin
+
+Linkedin Scrapper made with Scrapy.
